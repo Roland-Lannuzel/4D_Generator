@@ -1,0 +1,41 @@
+Mister	Mr	0
+Mister	Mr	0
+Mister	Mr	0
+Mister	Mr	0
+Mister	Mr	0
+Mister	Mr	0
+Mister	Mr	0
+Mister	Mr	0
+Mister	Mr	0
+Mister	Mr	0
+Miss	Ms	1
+Miss	Ms	1
+Miss	Ms	1
+Miss	Ms	1
+Miss	Ms	1
+Mistress	Mrs	1
+Mistress	Mrs	1
+Mistress	Mrs	1
+Mistress	Mrs	1
+Mistress	Mrs	1
+Mistress	Mrs	1
+Mistress	Mrs	1
+Mistress	Mrs	1
+Mistress	Mrs	1
+Mistress	Mrs	1
+Doctor	Dr	1
+Doctor	Dr	0
+Lawyer	Mr	0
+Lawyer	Mrs	1
+Lieutenant	LT	0
+General	Gen	0
+General of the Army	GA	0
+Lieutenant General	LTG	0
+Major General	MG	0
+Brigadier General	BG	0
+Colonel	COL	0
+Lieutenant Colonel	LTG	0
+Major	MAJ	0
+Captaine	CPT	0
+First Lieutenant	1LT	0
+Second Lieutenant	2LT	0
